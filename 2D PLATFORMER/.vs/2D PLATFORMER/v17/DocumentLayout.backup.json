@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|c:\\users\\asus\\ikado\\1-rabu - game \u0026 extended reality development\\project uts\\2d platformer\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|c:\\users\\asus\\ikado\\1-rabu - game \u0026 extended reality development\\project uts\\2d platformer\\assets\\scripts\\finishpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\finishpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\particlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\particlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\buttonanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\movingobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingobstacle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\assets\\scripts\\tilemapshadowcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF5B440-204D-3F50-C8B7-735E277D5AB4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemapshadowcaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:24:50.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\HealthController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\HealthController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:32:07.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwEQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:25:49.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:55:06.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\SceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\SceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:50:25.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinishPoint.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\FinishPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FinishPoint.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\FinishPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FinishPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:50:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:17:08.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VolumeSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\VolumeSettings.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeSettings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\VolumeSettings.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumeSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:24:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParticleController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\ParticleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ParticleController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\ParticleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ParticleController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA9wC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:16:38.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PortalController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\PortalController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PortalController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\PortalController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PortalController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T09:25:10.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Timer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\Timer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Timer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:09:25.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ButtonAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\ButtonAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonAnimation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\ButtonAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:31:22.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:59:38.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovingObstacle.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MovingObstacle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingObstacle.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MovingObstacle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingObstacle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T14:44:36.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MovingPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovingPlatform.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MovingPlatform.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovingPlatform.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T14:01:32.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovementController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MovementController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\MovementController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA/wF4AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:07:22.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TilemapShadowCaster.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\TilemapShadowCaster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TilemapShadowCaster.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\TilemapShadowCaster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TilemapShadowCaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:48:55.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\IKADO\\1-Rabu - Game \u0026 Extended Reality Development\\Project UTS\\2D PLATFORMER\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:43:40.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
